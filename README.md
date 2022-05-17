@@ -1,5 +1,5 @@
 # Personal-Blog
-
+An application that allows users to share thoughts through blogging and make comments about other authors or bloggers posts
 
 ## Table of Content
 + [Description](#description)
