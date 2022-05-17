@@ -21,8 +21,8 @@ An application that allows users to share thoughts through blogging and make com
 * A stable internet connection
 ## User Story
 * Comment on the different blog posted by other user.
-* See the pitches posted by other uses.
-* Vote on s pitch they have viwed by giving it a upvote or a downvote.
+* See the blogs posted by other users and allow others to comment.
+*
 * Register to be allowed to log in to the application
 * View pitches from the different categories.
 * Submit a pitch to a specific category of their choice.
