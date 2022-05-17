@@ -27,10 +27,10 @@ An application that allows users to share thoughts through blogging and make com
 ## set up instruction and installation
  1. clone this repository to a folder https://github.com/rossyvee/personal--blog
  2. Extract the cloned file and install requirements
-* cd slask folder then pitch
+* cd the folder then open the personal blog
 * pip install -r requirements.txt
   3. Export configurations
-  4. python3.10 -m venv virtual --without-pip
+  4. python3 -m venv virtual --without-pip
 # Running the application locally
 
 source virtual/bin/activate
