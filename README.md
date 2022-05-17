@@ -11,7 +11,7 @@ An application that allows users to share thoughts through blogging and make com
 + [Authors Info](#aut)
 
 ## Description
- The application allows other users who have signed up to comment and upvote or downvote a pitch, it also allows signup to be able to access the functionalities of the application
+An application that allows users to share thoughts through blogging and make comments about other authors or bloggers posts
 
 ## Technology Used
 * [Python3.6](https://www.python.org/)
@@ -20,7 +20,7 @@ An application that allows users to share thoughts through blogging and make com
 ## Requirements
 * A stable internet connection
 ## User Story
-* Comment on the different pitches posted py other uses.
+* Comment on the different blog posted by other user.
 * See the pitches posted by other uses.
 * Vote on s pitch they have viwed by giving it a upvote or a downvote.
 * Register to be allowed to log in to the application
