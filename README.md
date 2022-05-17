@@ -24,7 +24,6 @@ An application that allows users to share thoughts through blogging and make com
 * See the blogs posted by other users and allow others to comment.
 * Allows other users to sign up for notifications
 * Register to be allowed to log in to the application
-* 
 ## set up instruction and installation
  1. clone this repository to a folder https://github.com/rossyvee/News_API
  2. Extract the cloned file and install requirements
