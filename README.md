@@ -37,11 +37,9 @@ source virtual/bin/activate
 
 pip install -r requirements.txt
 
-gunicorn --bind 0.0.0.0:5000 app:app
+alternatively run (make sure the virtual environment is activated)
 
-- alternatively run (make sure the virtual environment is activated)
-
-python3 run.py 
+python3 manage.py 
 
 ## Behaviour Drive and Development
 | Behaviour | Input | Output |
