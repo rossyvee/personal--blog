@@ -44,14 +44,11 @@ python3 manage.py
 ## Behaviour Drive and Development
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
-| Load the page  | Get all posts, Select between signup and login|
+| Load the page  |Select between signup and login|
 | Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
-| Select Login | **Username** and **password** | Redirect to page with app pitches based on categories and commenting section|
+| Select Login | **Username** and **password** | Redirect to page with the create blog based on categories and commenting section|
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments template with your comment and other comments|
-
-
-[live-link](https://github.com/rossyvee/Pitch)
 
   ## Licence
 MIT License
