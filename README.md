@@ -22,7 +22,7 @@ An application that allows users to share thoughts through blogging and make com
 ## User Story
 * Comment on the different blog posted by other user.
 * See the blogs posted by other users and allow others to comment.
-*
+*  Allows other users to sign up for notifications
 * Register to be allowed to log in to the application
 * View pitches from the different categories.
 * Submit a pitch to a specific category of their choice.
